@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models
+message: If you find this paper useful, please cite it as below
+authors:
+  - given-names: Chaofan
+    family-names: Ma
+    email: chaofanma@sjtu.edu.cn
+  - given-names: Yuhuan
+    family-names: Yang
+    email: yangyuhuan@sjtu.edu.cn
+  - given-names: Yanfeng
+    family-names: Wang
+    email: wangyanfeng@sjtu.edu.cn
+  - given-names: Ya
+    family-names: Zhang
+    email: ya_zhang@sjtu.edu.cn
+  - given-names: Weidi
+    family-names: Xie
+    email: weidi@sjtu.edu.cn
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2210.15138'
+repository-code: 'https://github.com/chaofanma/Fusioner'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Chaofan
+      family-names: Ma
+      email: chaofanma@sjtu.edu.cn
+    - given-names: Yuhuan
+      family-names: Yang
+      email: yangyuhuan@sjtu.edu.cn
+    - given-names: Yanfeng
+      family-names: Wang
+      email: wangyanfeng@sjtu.edu.cn
+    - given-names: Ya
+      family-names: Zhang
+      email: ya_zhang@sjtu.edu.cn
+    - given-names: Weidi
+      family-names: Xie
+      email: weidi@sjtu.edu.cn
+  journal: British Machine Vision Conference
+  title: Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models
+  year: 2022
